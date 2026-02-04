@@ -1,0 +1,8 @@
+{
+  "name": "Copy 2 of StudioGen AI Production Suite",
+  "description": "An all-in-one AI media production suite for generating studio-quality voiceovers, cinematic videos, and professional visual assets using Gemini's cutting-edge models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
